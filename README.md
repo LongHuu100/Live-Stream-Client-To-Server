@@ -1,5 +1,8 @@
 # Live-Stream-Clent-To-Server
 App Live stream video từ client (react-native)  to server (NodeJs)
+Server using: node-media-server
+
+Client using: react-native-nodemediaclient
 
 <img src="https://media-exp1.licdn.com/dms/image/C4E12AQEcqZcZhKqJ8A/article-inline_image-shrink_1000_1488/0/1582582827896?e=1630540800&v=beta&t=aPRetR9-lGtZyhWtUOHQJ_qEgAppmYajlx6hnJqMIXU" />
 
